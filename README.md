@@ -10,7 +10,7 @@ Raw Datasets:
 * Density of Doctors.csv
 * CO2 Emissions.csv
 
-Datasets from HQL query output:
+Datasets from HIVE QL query output:
 * top 10 population (2024).csv
 * bottom 10 population (2024).csv
 * top 10 gdp per capita (2024).csv
