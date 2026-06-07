@@ -10,6 +10,9 @@ Raw Datasets:
 * Density of Doctors.csv
 * CO2 Emissions.csv
 
+HIVE QL file:
+* STQD6324 Data Management (P166974).hql
+
 Datasets from HIVE QL query output:
 * top 10 population (2024).csv
 * bottom 10 population (2024).csv
