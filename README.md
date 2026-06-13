@@ -28,7 +28,7 @@ Datasets from HIVE QL query output:
 * gdp vs co2.csv
 * health_economic_environmental_summary.csv
 
-Images used in the project:
+Output Images used in the project:
 * hive1.png
 * hive2.png
 * hive3.png
